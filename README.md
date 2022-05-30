@@ -1,0 +1,6 @@
+- ola meu nome e higorxz
+- atualmente estou mexendo no javascripts, git hub
+- como fazer para você criar um prorgama ? 
+- assista as aulas que as plataformas disponibiliza para você
+- assim você tera um otimo desempenho nas aulas de programação
+- e ira realizar as atividaddes dem dificuldade 
