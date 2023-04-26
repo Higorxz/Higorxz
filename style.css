@@ -1,3 +1,46 @@
 body{
-background-color: #97ffff
+  background-color: gray
+}
+header{
+  background-color: black
+}
+
+nav li{
+  display: inline-block;
+  margin: 0 0 0 200px;
+  text-transform: uppercase;
+}
+
+nav a:hover{
+color: white;
+text-decoration: underline;
+}
+
+.titulo{font-size: 100px; color: #C7C7C7; text-align: center;margin-top: -7%}
+
+h1{
+  font-family: inherit; text-align: center; color:white; border: 10px solid Blue;
+}
+
+p{
+  font-family: monospace; font-size: 30px; color: white; text-align: center; border: 10px solid Blue;
+}
+
+ul {
+  top: 200px;
+font-size: 30px;
+}
+
+.logo{
+width: 15%;
+margin-left: 0%;
+}
+
+.contato{font-family: cursive; background-color: Blue; color: #FFFFFF ; font-size: 30px; text-align: center;}
+
+.fotos{font-family: cursive; background-color: Blue; color: #FFFFFF ; font-size: 30px; text-align: center;}
+
+img{
+  width: 100%;
+  margin-left: 0%;
 }

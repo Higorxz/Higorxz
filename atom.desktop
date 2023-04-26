@@ -29,14 +29,14 @@ Titulo do site
   </header>
 
   <div class="texto">
-         <h1>meu nome e Higor eduardo Oliveira estudo n oWilson Joffre 2°D</h1>
-         <p>meus hobby são: fut,volei, e muay thay </p>
+         <h1>Texto 1</h1>
+         <p>Texto 2</p>
       </div>
 
 
       <img src="link da imagem" alt="">
 
-         <p>gosto muito de esportes</p>
+         <p>Texto 3</p>
 
 
   </body>
